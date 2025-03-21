@@ -11,3 +11,4 @@ add(a,b)
 def min(x,y):
     return x-y
 print(min(5,3))
+print ("este ora de luat pauuza")
